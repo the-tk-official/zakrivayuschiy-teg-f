@@ -1,1 +1,19 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
+:root {
+    --accent-font-family: PressStart2P;
+    --main-font-family: Inter-Variable;
+
+    --active-core-color: red;
+    --hover-core-color: #000;
+    --is-liked-core-color: red;
+
+    --counter-color: #000;
+    --is-liked-counter-color: red;
+
+    --active-main-body-color: red;
+    --hover-main-body-color: #000;
+    --is-liked-main-body-color: red;
+
+    --sparks-color: red;
+}
